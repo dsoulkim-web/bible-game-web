@@ -1,0 +1,26 @@
+{
+  "background_color": "#1b1726",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "144x144",
+      "src": "index.144x144.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "180x180",
+      "src": "index.180x180.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "index.512x512.png",
+      "type": "image/png"
+    }
+  ],
+  "name": "말씀의 동산",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "short_name": "말씀의 동산",
+  "theme_color": "#1b1726"
+}
