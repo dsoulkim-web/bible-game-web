@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794918017|2847694';
+const CACHE_VERSION = '1794921667|2716946';
 /** @type {string} */
 const CACHE_PREFIX = 'BibleGame-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
